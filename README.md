@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Marwan Mellouk</h1>
-<h3 align="center">A passionate frontend developer from France</h3>
+<h1 align="center">Hi 👋, I'm Marwan Mellouk (@darcomex)</h1>
+<h3 align="center">A developer passionate about several programming languages and in particular systems and networks </h3>
+<h3 align="center">Currently studying in 2nd year of BUT informatique at University of Paris Rives de seine, I share the projects and my progress here with you </h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darcomex&label=Profile%20views&color=0e75b6&style=flat" alt="darcomex" /> </p>
 
