@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Marwan Mellouk (@darcomex)</h1>
-<h3 align="center">A developer passionate about several programming languages and in particular systems and networks </h3>
-<h3 align="center">Currently studying in 2nd year of BUT informatique at University of Paris Rives de seine, I share the projects and my progress here with you </h3>
+<h3 align="center">A developer passionate about several programming languages and in particular Python and networks </h3>
+<h3 align="center">Currently studying in 5th year at ESIEE Paris, I share the projects and my progress here with you </h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darcomex&label=Profile%20views&color=0e75b6&style=flat" alt="darcomex" /> </p>
@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on WebSite [Map_sncf](https://github.com/SM-Factory/Projet-Web)
 
 
-- 🌱 I’m currently learning **Python, Kali linux, Javascript, Java and PHP**
+- 🌱 I’m currently learning **Python, cloud environement, OpenSource SOC project**
 
 - 📫 How to reach me **mrsmmellouk@gmail.com**
 
